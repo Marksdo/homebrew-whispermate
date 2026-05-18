@@ -1,8 +1,8 @@
 cask "whispermate" do
-  version "12.5"
-  sha256 "d98383e88087f042e893dfb2211a0b827a8217af82f4cbf870ba56929ad5f309"
+  version "12.5,586"
+  sha256 "4d59b13f874726f11665662ed3a2c78e6b52b889bdc0071b183308b4b1b60564"
 
-  url "https://github.com/Marksdo/homebrew-whispermate/releases/download/v#{version}/WhisperMateUniversal-#{version}.zip"
+  url "https://github.com/Marksdo/homebrew-whispermate/releases/download/v#{version.before_comma}/WhisperMateUniversal-#{version.before_comma}-#{version.after_comma}.zip"
   name "Whisper Mate"
   desc "AI-powered audio/video transcription with CLI support"
   homepage "https://whispermate.app"
