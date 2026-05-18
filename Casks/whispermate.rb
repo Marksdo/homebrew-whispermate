@@ -1,6 +1,6 @@
 cask "whispermate" do
-  version "12.5,586"
-  sha256 "4d59b13f874726f11665662ed3a2c78e6b52b889bdc0071b183308b4b1b60564"
+  version "12.5,587"
+  sha256 "b17f43402cfdded9d677fc1b2058b8286fb5a94c9b70e04d89b459248adc1607"
 
   url "https://github.com/Marksdo/homebrew-whispermate/releases/download/v#{version.before_comma}/WhisperMateUniversal-#{version.before_comma}-#{version.after_comma}.zip"
   name "Whisper Mate"
