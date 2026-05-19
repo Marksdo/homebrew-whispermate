@@ -2,3 +2,9 @@
 ```shell
 brew install --cask marksdo/whispermate/whispermate
 ```
+
+
+# uninstall
+```shell
+brew uninstall --zap whispermate
+```
