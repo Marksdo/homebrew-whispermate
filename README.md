@@ -1,5 +1,7 @@
 # <img src="assets/mac-128x128.png" width="40" height="40" alt="WhisperMate" align="top"> Homebrew-whispermate
 
+![WhisperMate screenshot](assets/ScreenShot_1.png)
+
 Install WhisperMate from this Homebrew tap:
 
 ```shell
