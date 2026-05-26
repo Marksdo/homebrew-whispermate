@@ -5,6 +5,7 @@ brew install --cask marksdo/whispermate/whispermate
 
 #upgrade
 ```shell
+brew update
 brew upgrade --cask marksdo/whispermate/whispermate
 ```
 
