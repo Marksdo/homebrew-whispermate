@@ -1,4 +1,4 @@
-# <img src="assets/mac-32x32@2x.png" width="32" height="32" alt="WhisperMate"> homebrew-whispermate
+# <img src="assets/mac-128x128.png" width="40" height="40" alt="WhisperMate" align="top"> Homebrew-whispermate
 
 Install WhisperMate from this Homebrew tap:
 
