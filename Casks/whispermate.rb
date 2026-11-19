@@ -7,7 +7,7 @@ cask "whispermate" do
   desc "AI-powered audio/video transcription with CLI support"
   homepage "https://whispermate.app"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Whisper Mate Universal.app"
   binary "#{appdir}/Whisper Mate Universal.app/Contents/Resources/whispermate-cli", target: "whispermate"
